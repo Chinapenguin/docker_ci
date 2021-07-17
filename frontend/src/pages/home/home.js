@@ -104,7 +104,7 @@ export default class Home extends Component {
           const thumb = item.solded > 200 ? global.url + 'fire.png' : ''
           return <AtCard
             title={item.name}
-            note="课程简介简介简介课程简介简介简介课程简介简介简介课程简介简介简介"
+            note="课程简介简介简介课程简介简介简介课程简介简介简介课程简介简介简介222222"
             extra={`￥${item.price}`}
             thumb={thumb}
           >
